@@ -192,13 +192,13 @@ $(document).ready(function(){
         }
     })();
 
-    $.getScript('/js/prettify/prettify.js',function(){
+    $.getScript('/sy950921-blog/js/prettify/prettify.js',function(){
         prettyPrint();
     });
 
 
-    if(/css3-animation/.test(location.href)){
-        $("head").append("<link rel='stylesheet' type='text/css' href='/css/css3-ani.css'/>");
-        $.getScript('/js/css3-ani.js',function(){});
+    if(/sy950921-blog/css3-animation/.test(location.href)){
+        $("head").append("<link rel='stylesheet' type='text/css' href='/sy950921-blog/css/css3-ani.css'/>");
+        $.getScript('/sy950921-blog/js/css3-ani.js',function(){});
     }
 });
