@@ -9,7 +9,7 @@ description: 本文中所解读的《哥本哈根》是根据Michael Frayn同名
 
 Michael Frayn 在一开始如是说。作为一个做过核物理科研工作的人，即便我在事实上已经比大多数此剧的观众要掌握更多的核物理知识，却仍然无法声称自己对他们的意图有一星半点的了解。所以，以下的评论中，我也仅仅在谈论“剧中的二人”和剧目本身。而对于这场谈话中究竟发生了什么——2010年玻尔同海森堡未寄出的信件已经公布，却恰似戏剧的外延。 
 　![enter image description here](http://img3.douban.com/view/photo/photo/public/p1815972480.jpg)　 
-
+  ![video](http://v.youku.com/v_show/id_XMTYxNzc2MzcxMg==.html)
 
 **《哥本哈根》首先是一个关于立场的故事。**
 
