@@ -17,8 +17,7 @@ layout: home
     
 
         <ul class="artical-list">
-        <p>我就试试看</p>
-          <p>你来打我呀</p>
+        
         
         <!--{% for post in site.categories.dump %}
             <li>
