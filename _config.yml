@@ -1,0 +1,14 @@
+auto: true
+
+markdown: rdiscount
+
+highlighter: 'pygments'
+#paginate: 8
+permalink: /:title
+
+name: “Songyue's Blog”
+title: Songyue's blog
+description: Everything about Songyue.
+url: http://sy950921.github.io/sy950921-blog
+feed: /atom.xml
+author_info: <a href="http://sy950921.github.io/sy950921-blog">Mukosame</a>
