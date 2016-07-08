@@ -26,5 +26,4 @@ description: 教你如何制作个人网站（文字+视频）
 
 【视频链接】</br>
 [http://www.iqiyi.com/v_19rrma7iis.html?vfm=f_109_bdxs](http://www.iqiyi.com/v_19rrma7iis.html?vfm=f_109_bdxs)
-<src=http://www.iqiyi.com/v_19rrma7iis.html?vfm=f_109_bdxs>
 
