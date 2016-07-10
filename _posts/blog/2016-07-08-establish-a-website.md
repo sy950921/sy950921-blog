@@ -27,5 +27,7 @@ description: 教你如何制作个人网站（文字+视频）
 【视频链接】</br>
 [http://www.iqiyi.com/v_19rrma7iis.html?vfm=f_109_bdxs](http://www.iqiyi.com/v_19rrma7iis.html?vfm=f_109_bdxs)
 
+<embed src="http://www.tudou.com/a/6lgQWs7ms-g/&bid=05&iid=132889065&resourceId=0_05_05_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400"></embed>
+
 <embed src="http://player.youku.com/player.php/sid/XNjIwMzUwNTg0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
