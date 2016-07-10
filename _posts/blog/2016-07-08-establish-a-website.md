@@ -27,3 +27,5 @@ description: 教你如何制作个人网站（文字+视频）
 【视频链接】</br>
 [http://www.iqiyi.com/v_19rrma7iis.html?vfm=f_109_bdxs](http://www.iqiyi.com/v_19rrma7iis.html?vfm=f_109_bdxs)
 
+<embed src="http://player.youku.com/player.php/sid/XNjIwMzUwNTg0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+
