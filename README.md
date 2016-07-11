@@ -1,8 +1,5 @@
 #一点点说明
 
-这是[mukosame.github.io](http://mukosame.github.io)的blog。你可以到gh-pages branch中查看干净的版本。
-* 感谢来自于beiyuu的设计(http://beiyuu.com/)
+这是[sy950921.github.io](http://sy950921.github.io)的blog
 * 希望你喜欢
-* 欢迎star
-* 欢迎fork
-* Happy hacking ^_^
+*  ^_^
