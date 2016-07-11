@@ -26,7 +26,7 @@ description: 教你如何制作个人网站（文字+视频）
 
 【视频链接】</br>
 
-<embed src="http://player.youku.com/player.php/sid/XMTYzODk1MTc3Ng==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></br>
+<embed src="http://player.youku.com/player.php/sid/XMTYzOTIwMjc0NA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></br>
 
-[http://v.youku.com/v_show/id_XMTYzODk1MTc3Ng==.html#paction](http://v.youku.com/v_show/id_XMTYzODk1MTc3Ng==.html#paction)
+[http://v.youku.com/v_show/id_XMTYzOTIwMjc0NA==.html#paction](http://v.youku.com/v_show/id_XMTYzOTIwMjc0NA==.html#paction)
 
